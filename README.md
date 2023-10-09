@@ -1,4 +1,4 @@
-# DataAnalysisDawsonCollegeProject
+# University Admissions Analysis
 Project by Fatin Chowdhury and Karim Mawji
 
 #############################
