@@ -1,18 +1,17 @@
-# Import necessary libraries
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn import metrics
-import matplotlib.pyplot as plt
 
-# Load dataset
+# setting up the dataset
 df = pd.read_csv('admission_data.csv')
 
-# Check the first few rows of the DataFrame
+# printing first rows of dataset
 print(df.head())
 
-# Print column names to confirm
+# Confirmation
 print("Column names:", df.columns)
 
 # Checking for missing values
