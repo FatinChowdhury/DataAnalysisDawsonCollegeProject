@@ -9,8 +9,7 @@ The dataset used is the "Graduate Admissions" dataset from Kaggle, encompassing 
 The goal is to create a predictive model that estimates admission chances.
 Linear regression is the primary tool chosen for its interpretability and suitability for the target variable, admission likelihood.
 
-#############################
-Model and Numerical Methods:
+# Model and Numerical Methods:
 This project's core is a linear regression model that predicts university admission chances based on multiple application factors,
 including GRE and TOEFL scores, University Rating, SOP/LOR strength, CGPA, and Research Experience.
 The Ordinary Least Squares method is employed to find the best-fit line by minimizing the differences between observed and predicted values.
