@@ -26,8 +26,7 @@ Predicting admission chances on the test data.
 Model evaluation using metrics like R-squared, Mean Absolute Error, Mean Squared Error, and Root Mean Squared Error.
 
 
-#############################
-Testing and Validation:
+# Testing and Validation:
 In the testing and validation phase, several crucial steps were taken to ensure the reliability and accuracy of the model:
 
 Data Consistency: The dataset was thoroughly inspected to ensure data integrity.
@@ -46,8 +45,7 @@ Overall, this phase focused on rigorous testing and validation to guarantee the 
 and its ability to provide accurate predictions beyond the training data.
 
 
-#############################
-Key Findings:
+# Key Findings:
 The linear regression model provided valuable insights into university admissions:
 
 The model captured a significant portion of admission chance variations (R-squared).
@@ -58,8 +56,7 @@ highlighted these influences and other subtle associations.
 
 The project's findings offer valuable guidance to prospective students by revealing the factors that impact admission prospects.
 
-#############################
-Results and Discussion:
+# Results and Discussion:
 
 The model's evaluation metrics include R-squared (81.88%), MAE (0.0427), MSE (0.0037), and RMSE (0.0609), indicating good prediction accuracy.
 Visualizations showed higher scores, more letters of recommendation, and lower university ratings correlated with higher admission chances.
@@ -67,8 +64,7 @@ CGPA and GRE scores are key factors affecting acceptance rates.
 Limitations include a small dataset and exclusion of other admission factors like interviews and essays.
 Future improvements may involve a more comprehensive dataset and advanced modeling techniques like decision trees for increased accuracy.
 
-#############################
-Conclusion:
+# Conclusion:
 
 Our model emphasized the significance of high CGPA and GRE scores in graduate admissions, highlighting the importance of academic excellence.
 However, it had limitations due to a small dataset and the exclusion of key factors like interviews and essays.
