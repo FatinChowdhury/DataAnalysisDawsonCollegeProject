@@ -1,8 +1,7 @@
 # University Admissions Analysis
 Project by Fatin Chowdhury and Karim Mawji
 
-#############################
-Project Overview:
+# Project Overview:
 
 This project addresses the complexity of university admissions by utilizing data-driven techniques.
 It employs linear regression to establish correlations and predict admission likelihood based on various application metrics.
